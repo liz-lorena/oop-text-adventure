@@ -1,14 +1,3 @@
-/*
- * Written by:
- * 
- * @IrisofLys
- * Jack D.
- * Shazia M.
- * Simran N.
- * Huda Y.
- * 
- */
-
 package application;
 
 import java.util.Random;
