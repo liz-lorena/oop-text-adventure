@@ -1,12 +1,4 @@
 /*
- * Written by:
- * 
- * @IrisofLys
- * Jack D.
- * Shazia M.
- * Simran N.
- * Huda Y.
- * 
  *This single-player game is called Mansion Escape and is structured as a text adventure 
  *that incorporates various topics we have learned in OOP. The objective of the game is 
  *to escape a haunted mansion by moving from room to room in search of the next open door 
