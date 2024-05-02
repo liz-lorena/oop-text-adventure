@@ -70,5 +70,5 @@ D. SECRET COMMAND
 
 E. SOURCE CODE
 	
-	The source code for this project can be found at https://github.com/soltk/oop-text-adventure
+	The source code for this project can be found at https://github.com/liz-lorena/oop-text-adventure
 
